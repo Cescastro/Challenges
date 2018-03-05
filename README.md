@@ -1,2 +1,2 @@
 # Challenges
-CodeEval Challenges
+CoderByte
